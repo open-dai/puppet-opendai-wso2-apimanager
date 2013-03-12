@@ -1,0 +1,21 @@
+{
+  "name": "764-wso2api",
+  "author": "764",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "",
+  "checksums": {
+    "Modulefile": "bd43080dfccae0d2e09a4d8d4cbc3db1",
+    "README.markdown": "871ae7422dd2e0efece5cb6aef017c50",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests\\init.pp": "48d1305844e40c662f35475f09ff3933",
+    "manifests\\params.pp": "5b8cee45fb7e83bfb171bd24b531d1fe",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests\\init.pp": "dd57ecbc9c2f6cffe3966896b6cbd3b6"
+  },
+  "dependencies": []
+}
